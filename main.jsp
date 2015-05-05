@@ -22,6 +22,5 @@
 </html>
 <!--changes from Roma-->
 <!--changes from Roma1234-->
-<!--changes from Roma123456-->
 <!--changes from Ivan123-->
 ;jgf
